@@ -2,4 +2,5 @@ streamlit
 yfinance
 requests
 beautifulsoup4
-pandas  # optional but helpful for any future tables
+pandas
+matplotlib
